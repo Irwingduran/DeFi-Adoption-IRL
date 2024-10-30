@@ -44,7 +44,7 @@ Humberto Besso Oberto H. Researcher and Business Dev.
 
 Sofía Villareal. Designer.
 
-Irwing Durán. Front-end dev.
+Irwing Durán. Full-stack dev.
 
 Johan De Jesús. Front-end dev.
 
